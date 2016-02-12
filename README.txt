@@ -1,0 +1,11 @@
+NOTE: I have used Python 3.4 to program this assignment.
+
+TicTacToe.py is the main.
+
+To run:
+'python TicTacToe.py'
+
+Begin playing and enjoy!
+
+Best Regards,
+David Hong
